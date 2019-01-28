@@ -1,0 +1,10 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 2rem;
+}
+.copy-kalp {
+    color: #EC407A;
+    margin-right: 10px;
+    -webkit-animation: kalpatiyor linear 1s infinite;
+    animation: kalpatiyor linear 1s infinite;
+}
